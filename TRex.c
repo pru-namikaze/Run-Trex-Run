@@ -14,9 +14,6 @@
 *	Developer:	Pranshu Raj Goel
 *	Tools:		OpenGL
 *	Language:	C Language
-*	USN:		1BI14CS119
-*	Batch:		B-4
-*	Semister:	6th
 *
 *
 *
